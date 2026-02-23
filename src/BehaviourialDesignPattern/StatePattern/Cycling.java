@@ -1,4 +1,4 @@
-package StatePattern;
+package BehaviourialDesignPattern.StatePattern;
 
 public class Cycling implements TransportationState{
     @Override

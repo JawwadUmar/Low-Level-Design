@@ -1,4 +1,4 @@
-package StatePattern;
+package BehaviourialDesignPattern.StatePattern;
 
 public class Train implements TransportationState{
 

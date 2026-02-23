@@ -1,4 +1,4 @@
-package StatePattern;
+package BehaviourialDesignPattern.StatePattern;
 
 public class Car implements TransportationState{
     @Override

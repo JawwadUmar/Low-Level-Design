@@ -1,4 +1,4 @@
-package StatePattern;
+package BehaviourialDesignPattern.StatePattern;
 
 public class Client {
     public static void main(String[] args) {

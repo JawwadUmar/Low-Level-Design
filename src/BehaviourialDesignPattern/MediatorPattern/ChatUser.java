@@ -1,4 +1,4 @@
-package MediatorPattern;
+package BehaviourialDesignPattern.MediatorPattern;
 
 public class ChatUser {
     private String name;

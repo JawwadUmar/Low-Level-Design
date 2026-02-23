@@ -1,4 +1,4 @@
-package IteratorPattern;
+package BehaviourialDesignPattern.IteratorPattern;
 
 public class Book implements Comparable<Book>{
     private String title;
